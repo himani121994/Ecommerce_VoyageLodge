@@ -32,6 +32,7 @@ const Home = () => {
                     <div style={{ position: "relative", top: "0px", left: "275px" }}>
                         <img src={img1} alt="" style={{ height: "350px", width: "400px", borderRadius: "40px", top: "30px" }} />
                         <img src={arrow} alt="" />
+                        
                     </div>
                    
                     <div style={{ position: "absolute", zIndex: "-1",top: "138px" }}>
